@@ -1,0 +1,4 @@
+tensorflow
+flask
+flask-bootstrap
+requests
